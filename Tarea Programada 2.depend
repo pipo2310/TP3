@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1508816816 source:c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\main.cpp
+	<iostream>
+	"Software.h"
+
+1508815720 c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\include\software.h
+	"Requerimentos.h"
+	<list>
+	<sstream>
+
+1508815720 c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\include\requerimentos.h
+	<sstream>
+	<map>
+	"Tarea.h"
+
+1508815720 c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\include\tarea.h
+	<iostream>
+	<sstream>
+
+1508816048 source:c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\src\requerimentos.cpp
+	"Requerimentos.h"
+
+1508816816 source:c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\src\software.cpp
+	"Software.h"
+
+1508816065 source:c:\users\melissa\desktop\cosas de ale\progra 2\tarea programada 2\src\tarea.cpp
+	"Tarea.h"
+
+1508816816 source:c:\users\b61015\downloads\tarea programada 2\main.cpp
+	<iostream>
+	"Software.h"
+
+1508860214 c:\users\b61015\downloads\tarea programada 2\include\software.h
+	"Requerimentos.h"
+	"Tarea.h"
+	<list>
+	<sstream>
+
+1508860237 c:\users\b61015\downloads\tarea programada 2\include\requerimentos.h
+	<sstream>
+	<map>
+	"Tarea.h"
+
+1508815720 c:\users\b61015\downloads\tarea programada 2\include\tarea.h
+	<iostream>
+	<sstream>
+
+1508816065 source:c:\users\b61015\downloads\tarea programada 2\src\tarea.cpp
+	"Tarea.h"
+
+1508860214 source:c:\users\b61015\downloads\tarea programada 2\src\requerimentos.cpp
+	"Requerimentos.h"
+
+1508860214 source:c:\users\b61015\downloads\tarea programada 2\src\software.cpp
+	"Software.h"
+
+1508860700 source:c:\users\pipo\downloads\tarea programada 2\main.cpp
+	<iostream>
+	"Software.h"
+
+1508861926 c:\users\pipo\downloads\tarea programada 2\include\software.h
+	"Requerimentos.h"
+	"Tarea.h"
+	<list>
+	<sstream>
+
+1508860237 c:\users\pipo\downloads\tarea programada 2\include\requerimentos.h
+	<sstream>
+	<map>
+	"Tarea.h"
+
+1508815720 c:\users\pipo\downloads\tarea programada 2\include\tarea.h
+	<iostream>
+	<sstream>
+
+1508816065 source:c:\users\pipo\downloads\tarea programada 2\src\tarea.cpp
+	"Tarea.h"
+
+1508868457 source:c:\users\pipo\downloads\tarea programada 2\src\miembro.cpp
+	"Miembro.h"
+
+1508869079 c:\users\pipo\downloads\tarea programada 2\include\miembro.h
+	<map>
+	<sstream>
+	"Requerimentos.h"
+
+1508870852 source:c:\users\pipo\downloads\tarea programada 2\src\requerimentos.cpp
+	"Requerimentos.h"
+
+1508870084 source:c:\users\pipo\downloads\tarea programada 2\src\software.cpp
+	"Software.h"
+
+1508860702 source:c:\users\cristian\desktop\tarea programada 3\main.cpp
+	<iostream>
+	"Software.h"
+
+1508861928 c:\users\cristian\desktop\tarea programada 3\include\software.h
+	"Requerimentos.h"
+	"Tarea.h"
+	<list>
+	<sstream>
+
+1508860238 c:\users\cristian\desktop\tarea programada 3\include\requerimentos.h
+	<sstream>
+	<map>
+	"Tarea.h"
+
+1508815722 c:\users\cristian\desktop\tarea programada 3\include\tarea.h
+	<iostream>
+	<sstream>
+
+1508872054 source:c:\users\cristian\desktop\tarea programada 3\src\miembro.cpp
+	"Miembro.h"
+
+1508872054 c:\users\cristian\desktop\tarea programada 3\include\miembro.h
+	"Requerimentos.h"
+
+1508870854 source:c:\users\cristian\desktop\tarea programada 3\src\requerimentos.cpp
+	"Requerimentos.h"
+
+1508870086 source:c:\users\cristian\desktop\tarea programada 3\src\software.cpp
+	"Software.h"
+
+1508816066 source:c:\users\cristian\desktop\tarea programada 3\src\tarea.cpp
+	"Tarea.h"
+
